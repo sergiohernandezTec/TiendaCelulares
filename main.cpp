@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Comentario.h"
+#include "Tienda.h"
 using namespace  std;
 
 int main() {
