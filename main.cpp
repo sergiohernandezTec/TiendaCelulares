@@ -3,6 +3,6 @@
 using namespace  std;
 
 int main() {
-    cout << "Tienda de celulares" << endl;
+    cout << "Nuestra tienda de celulares" << endl;
     return 0;
 }
