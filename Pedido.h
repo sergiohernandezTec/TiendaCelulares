@@ -6,6 +6,7 @@
 #include<Cliente.h>
 using namespace std;
 
+
 class Pedido:public Cliente{
 private:
     int idPedido;
