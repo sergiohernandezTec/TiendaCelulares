@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(TiendaCelulares main.cpp
         SergioClass.cpp
-        SergioClass.h)
+        SergioClass.h
+        Proveedor.cpp
+        Proveedor.h)
