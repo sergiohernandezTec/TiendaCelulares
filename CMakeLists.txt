@@ -7,4 +7,6 @@ add_executable(TiendaCelulares main.cpp
         SergioClass.cpp
         SergioClass.h
         Direccion.cpp
-        Direccion.h)
+        Direccion.h
+        Pedido.h
+        Pedido.cpp)
