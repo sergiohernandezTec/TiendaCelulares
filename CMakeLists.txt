@@ -7,4 +7,5 @@ add_executable(TiendaCelulares main.cpp
         SergioClass.cpp
         SergioClass.h
         Tienda.cpp
-        Tienda.h)
+        Tienda.h
+        Cliente.cpp)
