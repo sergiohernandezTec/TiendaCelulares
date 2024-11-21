@@ -16,4 +16,6 @@ add_executable(TiendaCelulares main.cpp
         Proveedor.h
         TelefonoBasico.cpp
         TelefonoBasico.h
+        Administrador.cpp
+        Administrador.h
 )
