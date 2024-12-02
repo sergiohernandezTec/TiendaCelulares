@@ -35,16 +35,6 @@ public:
     void mostrarPedido() const;
 };
 
-class Carrito {     // Clase Carrito
-public:
-    vector<string> productos;
-    float total;
-
-    Carrito();
-    void agregarProducto(const string& producto, float precio);
-    void mostrarCarrito() const;
-};
-
 class Cliente {     // Clase Cliente
 public:
     string nombre;
